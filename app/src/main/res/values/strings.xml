@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pdf Upload and Viewer</string>
+    <string name="upload_document">Upload Document</string>
+    <string name="uploaded_pdf_s">Uploaded PDF\'s</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

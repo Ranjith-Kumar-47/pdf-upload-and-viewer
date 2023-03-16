@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/share" android:icon="@drawable/share_app"
+            android:title="Share" />
+        <item android:id="@+id/rate_app" android:icon="@drawable/rate_icon"
+            android:title="Rate App" />
+    </group>
+
+</menu>
